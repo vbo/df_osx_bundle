@@ -1,5 +1,7 @@
 ## Mac OS X bundle for Dwarf Fortress
 
+![Dock screenshot](/screenshots/dock.png)
+
 The current Mac version of this awesome game is not a single application bundle, but like the
 Windows version it consists of a directory containing the application along with data files.
 
